@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1037514476015",
+    "project_id": "intellicater",
+    "storage_bucket": "intellicater.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037514476015:android:e49ad50816741d386ace1a",
+        "android_client_info": {
+          "package_name": "com.example.intellicater"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkjrGEDw06f5xoFYf2EUtca371u5NCYlI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

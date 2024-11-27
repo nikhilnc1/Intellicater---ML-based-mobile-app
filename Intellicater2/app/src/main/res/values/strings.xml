@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Intellicater</string>
+    <string name="about" translatable="false">aboutimage</string>
+    <string name="login_privacy_info" translatable="false">By continuing, you agree to our Terms of service Privacy Policy Content Policy</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
